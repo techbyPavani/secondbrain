@@ -1,0 +1,12 @@
+streamlit
+google-genai
+chromadb
+python-dotenv
+beautifulsoup4
+pypdf
+requests
+pydub
+sentence-transformers
+huggingface_hub
+transformers
+torch
